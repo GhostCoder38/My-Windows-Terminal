@@ -1,1 +1,1 @@
-# My-Windows-Terminal-Setup
+My custom Wndows Termanl setup using Oh-My-Posh
