@@ -1,1 +1,2 @@
-My custom Wndows Termanl setup using Oh-My-Posh
+<h1><medium><span style="color: rgb(31, 35, 40); font-family: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Noto Sans&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;; font-size: 16px; font-style: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">My
+custom Wndows Termanl setup using Oh-My-Posh</span></medium></h1>
