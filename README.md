@@ -11,9 +11,6 @@ My Windows Terminal setup using Oh-My-Posh, PowerShellGet, PSReadLine, and Termi
 > - PSReadLine functions and more..
 
 ## Gallery
-
-<img style="width: 1590px; height: 188px;" alt="Dog"
-src="https://github.com/GhostCoder38/My-Windows-Terminal-Setup/blob/main/Previews/Retro.png">
-
-
-
+![Retro Preview](https://github.com/GhostCoder38/My-Windows-Terminal-Setup/blob/main/Previews/PowerShellTom_Preview.png)
+![Retro Preview](https://github.com/GhostCoder38/My-Windows-Terminal-Setup/blob/main/Previews/Retro.png)
+![Retro Preview](https://github.com/GhostCoder38/My-Windows-Terminal-Setup/blob/main/Previews/UnbuntuLegt_Preview.png)
