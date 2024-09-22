@@ -1,0 +1,174 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "command": "find",
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{4ea7bba9-e647-46a7-9cb0-9346cc5e63f4}",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "backgroundImageAlignment": "bottomRight",
+            "backgroundImageOpacity": 0.4,
+            "backgroundImageStretchMode": "none",
+            "colorScheme": "Retro",
+            "font": 
+            {
+                "face": "Cascadia Code PL"
+            },
+            "hidden": false,
+            "opacity": 80,
+            "useAcrylic": false
+        },
+        "list": 
+        [
+            {
+                "colorScheme": "Campbell",
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "elevate": true,
+                "font": 
+                {
+                    "size": 13
+                },
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt "
+            },
+            {
+                "backgroundImage": null,
+                "closeOnExit": "never",
+                "colorScheme": "Retro",
+                "commandline": "\"C:\\Program Files\\PowerShell\\7\\pwsh.exe\"",
+                "elevate": true,
+                "font": 
+                {
+                    "builtinGlyphs": false,
+                    "face": "FiraCode Nerd Font",
+                    "size": 12,
+                    "weight": "normal"
+                },
+                "guid": "{4ea7bba9-e647-46a7-9cb0-9346cc5e63f4}",
+                "hidden": false,
+                "historySize": 5000,
+                "icon": "ms-appx:///ProfileIcons/pwsh.png",
+                "intenseTextStyle": "none",
+                "name": "PowerShell 7.4.2",
+                "showMarksOnScrollbar": true,
+                "startingDirectory": "%USERPROFILE%",
+                "tabTitle": "PowerShell 7.4.2",
+                "useAcrylic": true
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#000000",
+            "black": "#000000",
+            "blue": "#0000FF",
+            "brightBlack": "#AAAAAA",
+            "brightBlue": "#44B4CC",
+            "brightCyan": "#19D1D8",
+            "brightGreen": "#81EC0D",
+            "brightPurple": "#FF00FF",
+            "brightRed": "#FF0000",
+            "brightWhite": "#E5E5E5",
+            "brightYellow": "#FFD93D",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#19D1D8",
+            "foreground": "#FFFFFF",
+            "green": "#00FF00",
+            "name": "PowerShellTom",
+            "purple": "#9933CC",
+            "red": "#FF6600",
+            "selectionBackground": "#FFFFFF",
+            "white": "#F5F5F5",
+            "yellow": "#FFD93D"
+        },
+        {
+            "background": "#000000",
+            "black": "#00FF00",
+            "blue": "#00FF00",
+            "brightBlack": "#00FF00",
+            "brightBlue": "#00FF00",
+            "brightCyan": "#00FF00",
+            "brightGreen": "#00FF00",
+            "brightPurple": "#00FF00",
+            "brightRed": "#00FF00",
+            "brightWhite": "#00FF00",
+            "brightYellow": "#00FF00",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#00FF00",
+            "foreground": "#00FF00",
+            "green": "#00FF00",
+            "name": "Retro",
+            "purple": "#00FF00",
+            "red": "#00FF00",
+            "selectionBackground": "#FFFFFF",
+            "white": "#00FF00",
+            "yellow": "#00FF00"
+        },
+        {
+            "background": "#2C001E",
+            "black": "#4E9A06",
+            "blue": "#3465A4",
+            "brightBlack": "#555753",
+            "brightBlue": "#729FCF",
+            "brightCyan": "#34E2E2",
+            "brightGreen": "#8AE234",
+            "brightPurple": "#AD7FA8",
+            "brightRed": "#EF2929",
+            "brightWhite": "#EEEEEE",
+            "brightYellow": "#FCE94F",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#06989A",
+            "foreground": "#EEEEEE",
+            "green": "#300A24",
+            "name": "UbuntuLegit",
+            "purple": "#75507B",
+            "red": "#CC0000",
+            "selectionBackground": "#FFFFFF",
+            "white": "#D3D7CF",
+            "yellow": "#C4A000"
+        }
+    ],
+    "themes": []
+}
