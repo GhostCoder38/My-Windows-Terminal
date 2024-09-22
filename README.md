@@ -10,5 +10,10 @@ My Windows Terminal setup using Oh-My-Posh, PowerShellGet, PSReadLine, and Termi
 > - Navigation Shortcuts for access to user files such as documents, downloads, etc. (Can customize this via the Microsoft.PowerShell_profile.ps1 file)
 > - PSReadLine functions and more..
 
-## Preview
+## Gallery
+
+<img style="width: 1590px; height: 188px;" alt="Dog"
+src="https://github.com/GhostCoder38/My-Windows-Terminal-Setup/blob/main/Previews/Retro.png">
+
+
 
