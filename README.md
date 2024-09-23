@@ -1,6 +1,6 @@
 <h1><medium>My Wndows Terminal setup using Oh-My-Posh</span></medium></h1>
 
-My Windows Terminal setup using Oh-My-Posh, PowerShellGet, PSReadLine, and Terminal Icons. Please be sure to to read the getting started guide as it will show what prerequisites you will need to have installed before for installing the custom theme as well as the accompanying settings.json file which is required for the theme to work right and for other features to work properly</b>
+My Windows Terminal setup using Oh-My-Posh, PowerShellGet, PSReadLine, Terminal Icons and a custom Settings.json. Please be sure to to read the getting started guide as it will show what prerequisites you will need to have installed before for installing the custom theme as well as the accompanying settings.json file which is required for the theme to work right and for other features to work properly</b>
 
 **Features**
 > - Copy, paste, find, and split pane commands
