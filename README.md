@@ -5,7 +5,7 @@ My Windows Terminal setup using Oh-My-Posh, PowerShellGet, PSReadLine, Terminal 
 **Features**
 > - Copy, paste, find, and split pane commands
 > - PowerShell 7.4.2, and Command prompt settings (You can add more if you like)
-> - Retro color scheme included (Feel free to customize to what you like)
+> - 3 color schemes included (Feel free to customize to what you like)
 > - You are greeted with either good morning, good afternoon based on time of day
 > - Navigation Shortcuts for access to user files such as documents, downloads, etc. (Can customize this via the Microsoft.PowerShell_profile.ps1 file)
 > - PSReadLine functions and more..
